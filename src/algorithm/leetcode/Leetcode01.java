@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-public class leetcode01 {
+public class Leetcode01 {
     /**
      * 输入一个整型数组和一个整数，输出数组中两数和等于整数的下标
      * @param arr

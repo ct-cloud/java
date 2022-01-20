@@ -1,5 +1,7 @@
 package multithread;
 
+import java.util.concurrent.DelayQueue;
+
 /**
  * 线程共享变量方式
  */
